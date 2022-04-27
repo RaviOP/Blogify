@@ -1,0 +1,10 @@
+.mid-form {
+    background-color: white;
+    min-width: 25vw;
+    max-width: 25vw;
+    padding: 2.5rem 1.5rem;
+}
+
+.p-password input {
+    width: 100%;
+}
